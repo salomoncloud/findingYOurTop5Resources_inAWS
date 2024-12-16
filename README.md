@@ -7,3 +7,5 @@ pip install --user boto3 matplotlib
 
 Than, upload the script I have provided, and run it:
 python top_aws_services.py
+
+In the script, make sure to adjust the time range, to get the right data for your chart.
